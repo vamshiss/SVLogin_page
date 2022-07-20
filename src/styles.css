@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.btn{
+color: rgb(8, 8, 8);
+margin-top: 3px;
+background-color: rgb(12, 236, 87);
+border-radius: 9px;
+height: 30px;
+border-width: 1px;
+}
+input{
+  margin: 3px;
+}
